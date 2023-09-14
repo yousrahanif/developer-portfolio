@@ -12,7 +12,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    padding: 50px 200px;
+    margin: 50px 200px;
 }
 nav ul{
     display: flex;
@@ -182,4 +182,8 @@ margin-bottom: 10px;
 }
 .contact a{
     text-decoration: none;
+} 
+
+#btn{
+    background-color:#FD6E0A
 }
